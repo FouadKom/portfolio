@@ -78,8 +78,7 @@ Courses Include:
 - Supervised Machine Learning: Regression and Classification
 - Advanced Learning Algorithms
 - Unsupervised Learning, Recommenders, Reinforcement Learning
-- Data Handling with Pandas
-- Data preprocessing
+- Data Pre-processing Techniques: Handling Missing Values, Categorical Variables, Cross Validation, and Data Leakage Prevention
 
 ## Languages
 - English (Full Proficiency)
