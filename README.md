@@ -4,8 +4,8 @@
 
 ## Experience
 
-### Université de Tours
-**Temporary Lecturer and Research Assistant**  
+### Temporary Lecturer and Research Assistant
+**Université de Tours**  
 *September 2021 - August 2023 (2 years)*  
 Tours, France
 
@@ -15,13 +15,8 @@ Tours, France
 - Experience in teaching web development using Java Enterprise Edition (JEE) for creating dynamic and interactive web applications.
 - Training students in integrating complementary technologies such as XML for data manipulation and storage.
 
-**Research Internship**  
-*March 2018 - September 2018 (7 months)*
-
-- Designed and Implemented LDS an open source Java library for Linked Open Data based Semantic Similarity Measures.
-
-### Munchy Bytes
-**SQL Developer**  
+### SQL Developer
+**Munchy Bytes**  
 *2016 - 2018 (2 years)*  
 Beirut, Lebanon
 
@@ -31,6 +26,7 @@ Beirut, Lebanon
 - requirements and ensure their effective implementation using SSIS.
 
 ## Skills
+
 **Programming Languages:**
 Python, Java, C, PHP, HTML, VB.net 
 
@@ -45,14 +41,14 @@ Git
 
 ## Education
 
-### Université de Tours
-**Doctor of Philosophy - PhD, Computer Science**  
+### Doctor of Philosophy - PhD, Computer Science
+**Université de Tours**  
 *January 2018 - November 2023*
 
 Thesis Subject : Improving recommendation systems for IoT devices using Semantic Web and Linked Data technologies.
 
-### Lebanese University - Faculty of Sciences
-**Master's degree, Computer Science and Risk Management**  
+### Master's degree, Computer Science and Risk Management
+**Lebanese University - Faculty of Sciences**  
 *2016 - 2018*
 
 Courses Include:
@@ -63,8 +59,8 @@ Courses Include:
 - Data Acquistion
 - Cloud Computing
 
-### Lebanese University - Faculty of Sciences
-**Bachelor's degree, Computer Science**  
+### Bachelor's degree, Computer Science
+**Lebanese University - Faculty of Sciences**  
 *2012 - 2016*
 
 ## Certifications
@@ -91,15 +87,27 @@ Courses Include:
 - Arabic (Native or Bilingual)
 
 ## Projects
-### LDS: An Open-source Maven Java Library for Linked Open Data Based Similarity Measures
-1. LDSD: Linked Data Semantic Distance [1]
-2. Resim: Resource Similarity [2]
-3. LODS: Linked Open Data Similarity (SimI and SimP submeasures only) [3]
-4. PICSS: Partitioned Information Content Semantic Similarity [4]
+### [LDS](https://github.com/FouadKom/lds): An Open-source Java Library for Linked Open Data Based Similarity Measures.
+* *LDSD:* Linked Data Semantic Distance [1], and its extensions:
+   * *TLDSD:* Typeless Linked Data Semantic Distance [2]
+   * *WLDSD:* Weighted Linked Data Semantic Distance [2]
+   * *WTLDSD:* Weighted Typeless Linked Data Semantic Distance [2]
+
+* *Resim:* Resource Similarity [3], and its extensions:
+  * *TResim:* Typeless Resource Similarity [2]
+  * *WResim:* Weighted Resource Similarity [2]
+  * *WTResim:* Weighted Typeless Resource Similarity [2]
+
+* *LODS:* Linked Open Data Similarity (SimI and SimP submeasures only) [4]
+
+* *PICSS:* Partitioned Information Content Semantic Similarity [5]
 
 [1] Passant, Alexandre. “Measuring Semantic Distance on Linking Data and Using it for Resources Recommendations.” AAAI Spring Symposium: Linked Data Meets Artificial Intelligence (2010).
+
 [2] Piao, Guangyuan and John G. Breslin. “Measuring semantic distance for linked open data-enabled recommender systems.” SAC '16 (2016).
+
 [3] Cheniki, Nasredine, Abdelkader Belkhir, Yacine Sam and Nizar Messai. “LODS: A Linked Open Data Based Similarity Measure.” 2016 IEEE 25th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE) (2016): 229-234.
+
 [4] Meymandpour, Rouzbeh, and Davis, J. G. “A semantic similarity measure for linked data: An information content-based approach.” Knowledge-Based Systems, 109, 276–293. https://doi.org/10.1016/j.knosys.2016.07.012 (2016).
 
 
