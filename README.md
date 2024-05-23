@@ -2,6 +2,8 @@
 - Email: [fouadkomeiha@gmail.com](mailto:fouadkomeiha@gmail.com)
 - LinkedIn: [linkedin.com/in/fouad-komeiha](https://www.linkedin.com/in/fouad-komeiha)
 
+***
+
 ## Experience
 
 ### Temporary Lecturer and Research Assistant
@@ -25,19 +27,7 @@ Beirut, Lebanon
 - Collaborating with business teams to understand data integration
 - requirements and ensure their effective implementation using SSIS.
 
-## Skills
-
-**Programming Languages:**
-Python, Java, C, PHP, HTML, VB.net 
-
-**Operating Systems:**
-Linux, Microsoft Windows
-
-**Data Bases:**
-SQL, MySQL
-
-**Version Control Systems:**
-Git
+***
 
 ## Education
 
@@ -63,6 +53,8 @@ Courses Include:
 **Lebanese University - Faculty of Sciences**  
 *2012 - 2016*
 
+***
+
 ## Certifications
 
 ### Cybersecurity:
@@ -80,10 +72,30 @@ Courses Include:
 - Unsupervised Learning, Recommenders, Reinforcement Learning
 - Data Pre-processing Techniques: Handling Missing Values, Categorical Variables, Cross Validation, and Data Leakage Prevention
 
+***
+
+## Skills
+
+**Programming Languages:**
+Python, Java, C, PHP, HTML, VB.net 
+
+**Operating Systems:**
+Linux, Microsoft Windows
+
+**Data Bases:**
+SQL, MySQL
+
+**Version Control Systems:**
+Git
+
+***
+
 ## Languages
 - English (Full Proficiency)
 - French (Professional Working Proficiency)
 - Arabic (Native or Bilingual)
+
+***
 
 ## Projects
 ### [LDS](https://github.com/FouadKom/lds): An Open-source Java Library for Linked Open Data Based Similarity Measures.
