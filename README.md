@@ -1,8 +1,3 @@
-# Fouad Komeiha
-
-PhD in Computer Science, Semantic Web and Recommendation Systems  
-Tours, Centre-Val de Loire, France
-
 ## Contact
 - Email: [fouadkomeiha@gmail.com](mailto:fouadkomeiha@gmail.com)
 - LinkedIn: [linkedin.com/in/fouad-komeiha](https://www.linkedin.com/in/fouad-komeiha)
