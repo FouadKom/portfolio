@@ -66,7 +66,7 @@ Courses Include:
 - Sound the Alarm: Detection and Response
 - Linked Data Engineering
 
-### Machine Learning
+### Machine Learning:
 - Supervised Machine Learning: Regression and Classification
 - Advanced Learning Algorithms
 - Unsupervised Learning, Recommenders, Reinforcement Learning
@@ -91,9 +91,9 @@ Git
 ***
 
 ## Languages
-- English (Full Proficiency)
-- French (Professional Working Proficiency)
-- Arabic (Native or Bilingual)
+- English: Full Proficiency
+- French: Professional Working Proficiency (Level B1)
+- Arabic: Native
 
 ***
 
