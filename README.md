@@ -58,19 +58,20 @@ Courses Include:
 ## Certifications
 
 ### Cybersecurity:
-- Foundations of Cybersecurity
-- Connect and Protect: Networks and Network Security
-- Assets, Threats, and Vulnerabilities
-- Tools of the Trade: Linux and SQL
-- Play it Safe: Manage Security Risks
-- Sound the Alarm: Detection and Response
-- Linked Data Engineering
+- SOC Fundamentals (Part of the SOC Analyst Learning Path): LetsDefend.io
+- Foundations of Cybersecurity: Google
+- Connect and Protect: Networks and Network Security: Google
+- Assets, Threats, and Vulnerabilities: Google
+- Tools of the Trade: Linux and SQL: Google
+- Play it Safe: Manage Security Risks: Google
+- Sound the Alarm: Detection and Response: Google
+- Linked Data Engineering: Google
 
 ### Machine Learning:
-- Supervised Machine Learning: Regression and Classification
-- Advanced Learning Algorithms
-- Unsupervised Learning, Recommenders, Reinforcement Learning
-- Data Pre-processing Techniques: Handling Missing Values, Categorical Variables, Cross Validation, and Data Leakage Prevention
+- Supervised Machine Learning: Regression and Classification: DeepLearning.ai
+- Advanced Learning Algorithms: DeepLearning.ai
+- Unsupervised Learning, Recommenders, Reinforcement Learning: DeepLearning.ai
+- Data Pre-processing Techniques: Handling Missing Values, Categorical Variables, Cross Validation, and Data Leakage Prevention: Kaggle
 
 ***
 
