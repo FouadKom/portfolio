@@ -71,7 +71,13 @@ Courses Include:
 - Supervised Machine Learning: Regression and Classification: DeepLearning.ai
 - Advanced Learning Algorithms: DeepLearning.ai
 - Unsupervised Learning, Recommenders, Reinforcement Learning: DeepLearning.ai
+
+### Data Analysis/Engineering:
 - Data Pre-processing Techniques: Handling Missing Values, Categorical Variables, Cross Validation, and Data Leakage Prevention: Kaggle
+- Analyzing categorical data: Khan Academy
+- Displaying and comparing quantitative data: Khan Academy
+- Summarizing quantitative data: Khan Academy
+- Modeling data distributions: Khan Academy
 
 ***
 
