@@ -79,10 +79,6 @@ Courses Include:
 - Summarizing quantitative data: Khan Academy
 - Modeling data distributions: Khan Academy
 
-### SalesForce:
-- [fkomeiha](https://www.salesforce.com/trailblazer/fkomeiha)
-- 17 Badges \| 8775 points 
-
 ***
 
 ## Skills
