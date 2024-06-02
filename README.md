@@ -1,6 +1,7 @@
 ## Contact
 - Email: [fouadkomeiha@gmail.com](mailto:fouadkomeiha@gmail.com)
 - LinkedIn: [linkedin.com/in/fouad-komeiha](https://www.linkedin.com/in/fouad-komeiha)
+- ResearchGate: [researchgate.net/profile/fouad-komeiha](https://www.researchgate.net/profile/Fouad-Komeiha)
 
 ***
 
