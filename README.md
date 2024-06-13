@@ -67,7 +67,6 @@ Courses Include:
 - Tools of the Trade: Linux and SQL: Google
 - Play it Safe: Manage Security Risks: Google
 - Sound the Alarm: Detection and Response: Google
-- Linked Data Engineering: Google
 
 ### Machine Learning:
 - Supervised Machine Learning: Regression and Classification: DeepLearning.ai
