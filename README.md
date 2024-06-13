@@ -59,6 +59,7 @@ Courses Include:
 ## Certifications
 
 ### Cybersecurity:
+- Introduction to Splunk: Splunk Education
 - SOC Fundamentals (Part of the SOC Analyst Learning Path): LetsDefend.io
 - Foundations of Cybersecurity: Google
 - Connect and Protect: Networks and Network Security: Google
@@ -73,12 +74,13 @@ Courses Include:
 - Advanced Learning Algorithms: DeepLearning.ai
 - Unsupervised Learning, Recommenders, Reinforcement Learning: DeepLearning.ai
 
-### Data Analysis/Engineering:
-- Data Pre-processing Techniques: Handling Missing Values, Categorical Variables, Cross Validation, and Data Leakage Prevention: Kaggle
+### Data Analysis/Engineering, Statistics:
 - Analyzing categorical data: Khan Academy
 - Displaying and comparing quantitative data: Khan Academy
 - Summarizing quantitative data: Khan Academy
 - Modeling data distributions: Khan Academy
+- Data Pre-processing Techniques: Handling Missing Values, Categorical Variables, Cross Validation, and Data Leakage Prevention: Kaggle
+- Introduction to Pandas Library: Kaggle
 
 ***
 
@@ -102,7 +104,7 @@ Git
 ***
 
 ## Languages
-- English: Full Proficiency
+- English: Full Proficiency (Level C2)
 - French: Professional Working Proficiency (Level B1)
 - Arabic: Native
 
