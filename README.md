@@ -81,6 +81,10 @@ Courses Include:
 - Data Pre-processing Techniques: Handling Missing Values, Categorical Variables, Cross Validation, and Data Leakage Prevention: Kaggle
 - Introduction to Pandas Library: Kaggle
 
+### Data Visualization:
+- Introduction to Tableau: Tableau
+- Data Visualization: Kaggle
+
 ***
 
 ## Skills
@@ -97,8 +101,14 @@ Apache
 **Data Bases:**
 SQL, MySQL
 
-**Version Control Systems:**
-Git
+**Data Visualization:**
+Tableau, Matplotlib, Seaborn
+
+**Data Analysis:**
+Pandas, Excel
+
+**Tools:**
+Git, JIRA, Microsoft Office
 
 ***
 
